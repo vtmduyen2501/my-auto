@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 24 17:31:08 GMT+07:00 2025","Sat May 24 17:31:17 GMT+07:00 2025","9393","Default suite","Default test","tests.NewTest","tests.NewTest","login","Test login",""
