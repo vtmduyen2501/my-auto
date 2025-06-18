@@ -5,4 +5,6 @@ fffffffff
 sdfsdfsdfdf
 sdfsdfsdf
 
+BBBBBBBBBBB
+CCCCCCCCC
 mvn clean test -DsuiteXmlFile=testng-runSequential.xml
