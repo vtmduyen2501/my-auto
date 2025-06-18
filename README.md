@@ -3,13 +3,9 @@
 From vtmduyen2501
 fffffffff
 sdfsdfsdfdf
-sdfsdfsdf
+sdfsdfsd
 
-<<<<<<< Updated upstream
-BBBBBBBBBBB
-CCCCCCCCC
-=======
-ABCDEF
+f
 
 >>>>>>> Stashed changes
 mvn clean test -DsuiteXmlFile=testng-runSequential.xml
